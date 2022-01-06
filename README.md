@@ -14,6 +14,6 @@ A speed control mod for Cultist Simulator Beta branch. With this mod you get ful
 - UnityEngine.CoreModule
 - UnityEngine.IMGUIModule
 - Unity.InputSystem
-- 
+
 All found inside \\Gamepath\cultistsimulator_Data
 
