@@ -4,11 +4,14 @@
     <RootNamespace>Moat.CultistPlugins</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="SecretHistories.Main">
-      <HintPath>external\SecretHistories.Main.dll</HintPath>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>external\Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.InputSystem">
-      <HintPath>external\Unity.InputSystem.dll</HintPath>
+    <Reference Include="BepInEx">
+      <HintPath>external\BepInEx.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>external\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>external\UnityEngine.CoreModule.dll</HintPath>
