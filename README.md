@@ -10,7 +10,7 @@ A speed control mod for Cultist Simulator Beta branch. With this mod you get ful
 
 
 ## Dependencies
-Project Dependencies should be placed in the folder `externals`. All files can be found inside the game folder \\\Cultist Simulator/cultistsimulator_Data/Managed
+Project Dependencies should be placed in a folder called `externals`. All files can be found inside the game folder \\\Cultist Simulator/cultistsimulator_Data/Managed
 - SecretHistories.Main.dll
 - UnityEngine.CoreModule.dll
 - UnityEngine.IMGUIModule.dll
