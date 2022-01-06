@@ -4,8 +4,8 @@ A speed control mod for Cultist Simulator Beta branch. With this mod you get ful
 ## Usage
 ### Press
 - F12 to skip forward in time till the the next event completes.  
-- F11 to increase game speed
-- F9 to decrease game speed
+- F11 to increase game speed, max speed is dependent on the in game fps with 300% speed being the maximum for 60fps and 600% for 120fps
+- F9 to decrease game speed, min speed is 0% by which time comes to a halt
 - F8 to reset game speed to normal
 
 
