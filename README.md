@@ -9,8 +9,9 @@ A speed control mod for Cultist Simulator Beta branch. With this mod you get ful
 - F8 to reset game speed to normal
 
 
-## Dependencies
+## Dependencies for source files
 Project Dependencies should be placed in a folder called `externals`. All files can be found inside the game folder \\\Cultist Simulator/cultistsimulator_Data/Managed
+Required files:
 - SecretHistories.Main.dll
 - UnityEngine.CoreModule.dll
 - UnityEngine.IMGUIModule.dll
