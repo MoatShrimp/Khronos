@@ -10,7 +10,7 @@ A speed control mod for Cultist Simulator Beta branch and Stable blanch using Be
 
 
 ## Dependencies for source files
-Project Dependencies should be placed in a folder called `externals`. All files can be found inside the game folder `Cultist Simulator/cultistsimulator_Data/Managed`
+Project Dependencies should be placed in a folder called `external`. All files can be found inside the game folder `Cultist Simulator/cultistsimulator_Data/Managed`
 
 Required files:
 - SecretHistories.Main.dll
@@ -19,7 +19,7 @@ Required files:
 - Unity.InputSystem.dll
 
 ## Dependencies for BepInEx version of source files
-Project Dependencies should be placed in a folder called `externals`. All files can be found inside the game folder `Cultist Simulator/cultistsimulator_Data/Managed`
+Project Dependencies should be placed in a folder called `external`. All files can be found inside the game folder `Cultist Simulator/cultistsimulator_Data/Managed`
 
 Required files:
 - Assembly-CSharp.dll
