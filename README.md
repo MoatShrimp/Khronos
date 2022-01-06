@@ -7,9 +7,7 @@ Press
 - F11 to increase game speed
 - F9 to decrease game speed
 - F8 to reset game speed to normal
-
-### Skip forward in time
-Press F12 to skip forward in time till the the next event completes.  
+- F12 to skip forward in time till the the next event completes.  
 
 ## Required Assemblies
 All found inside \\Gamepath\cultistsimulator_Data:
