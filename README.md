@@ -10,9 +10,9 @@ A speed control mod for Cultist Simulator Beta branch. With this mod you get ful
 
 
 ## Required Assemblies
-All found inside \\Gamepath\cultistsimulator_Data:
 - SecretHistories.Main
 - UnityEngine.CoreModule
 - UnityEngine.IMGUIModule
 - Unity.InputSystem
+All found inside \\Gamepath\cultistsimulator_Data
 
