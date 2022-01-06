@@ -4,7 +4,7 @@ using Assets.TabletopUi.Scripts.Services;
 using BepInEx;
 using BepInEx.Configuration;
 
-[BepInPlugin("MoatShrimp.CultistSimulatorPlugins.Khronos", "Cultist Simulator Speed Changer", "0.7.1")]
+[BepInPlugin("MoatShrimp.CultistSimulatorPlugins.Khronos", "Khronos", "0.7.1")]
 public class Khronos : BaseUnityPlugin
 {
     public static TimeSkip Skipper { get; set; }
@@ -25,7 +25,7 @@ public class Khronos : BaseUnityPlugin
         
         Skipper = this.gameObject.AddComponent<TimeSkip>();
         SpeedManager = this.gameObject.AddComponent<SpeedManager>();
-        Logger.LogInfo("SpeedChanger-plugin initialized.");
+        Logger.LogInfo("Khronos-plugin initialized.");
     }
     private void Update()
     {
