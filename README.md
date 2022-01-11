@@ -1,5 +1,5 @@
 # Khronos
-A speed control mod for Cultist Simulator Beta branch (and the Stable blanch using BepInEx). With this mod you get full control of the speed of the game together the ability to jump forward in time to the next event. Main mod requires the current (as of 2022-01-06) Beta branch 'Gate of Thorn' of Cultist Simulator in order to work. Otherwise BepInEx is required.
+A speed control mod for Cultist Simulator Beta branch (and the Stable blanch using BepInEx). With this mod you get full control of the speed of the game together the ability to jump forward in time to the next event. Main mod requires the current (as of 2022-01-06) Beta branch 'Gate of Horn' of Cultist Simulator in order to work. Otherwise BepInEx is required.
 
 Mod for the Beta branch can be downloaded from Steam Workshop here: https://steamcommunity.com/sharedfiles/filedetails/?id=2709533810
 
